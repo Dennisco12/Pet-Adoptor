@@ -1,0 +1,20 @@
+.featured-pets {
+  padding: 20px;
+  background-color: #fefefe;
+}
+
+.pets-list {
+  display: flex;
+  gap: 20px;
+}
+
+.pet-card {
+  text-align: center;
+}
+
+.pet-card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+}
+
